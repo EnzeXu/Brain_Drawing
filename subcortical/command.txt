@@ -1,0 +1,1 @@
+python main.py --in-dir .\all_sub\002_S_4799-Destrieux_Labeled_Subcorticals_Combined_T1Space.vtk --labels 0 0 0 0 0 0 1.539696 1.6821165 1.925418 1.87330 1.928574 1.950907
